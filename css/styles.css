@@ -1,0 +1,30 @@
+body{
+  background-color: #d3dbff;
+}
+#carouselExampleIndicators{
+  margin-top: 70px;
+}
+
+.toplinks, .phone{
+  color:white;
+  margin-right: 2rem;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.logo-link{
+  background-color:#041964;
+}
+.carousel-img{
+  margin-top: 80px;
+  width:auto;
+  height: auto;
+}
+.slides{
+  text-align: center;
+}
+.carousel-img{
+  border: 1px solid black;
+}
+.dropdowntop{
+  padding-top: 0;
+}
